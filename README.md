@@ -1,2 +1,2 @@
-# Mtech MySQL
+# Mtech MySQL Workbench
 
